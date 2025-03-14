@@ -1,4 +1,4 @@
-# VisualizacionesLigaMX
+# Visualización de datos de la LigaMX
 Proyecto de visualizaciones con cuadros de mando en R para analizar datos de la Liga MX. Se desarrollaron dashboards interactivos y gráficos para explorar tendencias en goles esperados, rendimiento de equipos, índices de presión, distribución de victorias por estado y la relación entre PIB estatal y desempeño futbolístico.
 
 ## Herramientas y librerías utilizadas
